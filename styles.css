@@ -7,7 +7,7 @@ body{
                 -o-background-size: cover;
                 background-size: cover;
                 cursor: url(http://ani.cursors-4u.net/people/peo-9/peo1061.cur), auto !important;
-                text-shadow: 3px green;
+                text-shadow: 3px 3px 2px #00ffff !important;
             }
 
 }
