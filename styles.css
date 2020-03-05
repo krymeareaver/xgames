@@ -11,6 +11,9 @@ body{
             }
 
 }
+p{
+    font-size: 4;
+  }
 .sp {
     background-color: blue;
     border: 1px blue;
